@@ -1,5 +1,5 @@
 ### Oi, meu nome é victor!
-estudante de análise e desenvolvimento de sistemas na faculdade Uniceub e apaixonado por luta. Atualmente trabalho como auxiliar administrativo. 
+estudante de análise e desenvolvimento de sistemas na faculdade Uniceub e apaixonado por programação e Cibersegurança. Atualmente trabalho como auxiliar administrativo. 
 - 👩🏻‍💻 **estudande** de ADS na [Uniceub](https://www.uniceub.br/)
 - Apaixonado por **programação**
 - 🖥️ Atualmente mais focado em:
